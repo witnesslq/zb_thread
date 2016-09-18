@@ -17,3 +17,5 @@
 > *--exchanger.md(线程间交换数据)
 > 
 > *--queue.md(并发库集合、阻塞队列实现线程同步)
+> 
+> *--test.md(同步阻塞队列SynchronousQueue、CopyOnWriteArrayList、CopyOnWriteArrayList)
