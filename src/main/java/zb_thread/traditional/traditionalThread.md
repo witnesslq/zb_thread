@@ -22,3 +22,9 @@
 
 当方法为静态方法时，把this，改成OutPuter.class,静态方法只能和字节码对象进行关联
 
+## TraditionalThreadExercise.java
+
+子线程循环10次，接着主线程循环100，接着又回到子线程循环10次，接着再会到主线程循环100次，如此循环50次
+
+wait()和notify()必须在synchronized中使用
+
